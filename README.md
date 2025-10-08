@@ -35,17 +35,13 @@
 
 Ensure the following before getting started:
 
-- [Git](https://git-scm.com/downloads) installed on your system
-
 ---
 
 ## 💻 Running Locally
 
-Clone the repository to your local machine:
+---
 
-```bash
-git clone https://github.com/MuhammadTanveerAbbas/tourly-landing-page.git
-```
+If you have some questions, feel free to reach out.
 
 Open the project folder in your preferred editor and launch the `index.html` file in any modern browser.
 
